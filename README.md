@@ -35,7 +35,7 @@
 <h3 align="center">🌹 About me & contact 🌹 </h3>
 
 <p align="center">
-  <a href="https://inryuuu.notion.site/Inryu-Shin-39408b0334ac467f8f391b6bb435cda2"><img src="https://img.shields.io/badge/✨PORTFOLIO✨-FF7F7F?style=flat-square&logoColor=white&link=https://inryuuu.notion.site/Inryu-Shin-39408b0334ac467f8f391b6bb435cda2"/></a>&nbsp
+  <a href="https://velog.io/@rlagksql219"><img src="https://img.shields.io/badge/✨PORTFOLIO✨-FF7F7F?style=flat-square&logoColor=white&link=https://velog.io/@rlagksql219"/></a>&nbsp
 </p><br>
 
 <div align="center">
