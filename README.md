@@ -1,7 +1,7 @@
 <div align="center">
 
-  # Hanbi
-  ### Interested in wep/app development 👩‍💻🔥
+  ## Hanbi
+  ### Interested in wep/app development 🔥
 
   ### ⚒️ Tech Stack ⚒️
   
