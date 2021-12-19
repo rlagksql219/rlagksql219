@@ -26,8 +26,8 @@
 
 <div align="center" style="text-align:center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=reactnative)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=openapi)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D-qcsivues)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=tesseract)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=OCR)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D-qcsivues)
 
 </div>
 
