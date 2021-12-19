@@ -36,7 +36,7 @@
 <h3 align="center">🌹 About me & contact 🌹 </h3>
 
 <p align="center">
-  <a href="https://www.notion.so/Hanbi-Kim-db0d510c53be468cab800ef2a1703d95"><img src="https://img.shields.io/badge/✨PORTFOLIO✨-FF7F7F?style=flat-square&logoColor=white&link=https://www.notion.so/Hanbi-Kim-db0d510c53be468cab800ef2a1703d95"/></a>&nbsp
+  <a href="https://boiling-unicorn-284.notion.site/Hanbi-Kim-db0d510c53be468cab800ef2a1703d95"><img src="https://img.shields.io/badge/✨PORTFOLIO✨-FF7F7F?style=flat-square&logoColor=white&link=https://boiling-unicorn-284.notion.site/Hanbi-Kim-db0d510c53be468cab800ef2a1703d95"/></a>&nbsp
 </p><br>
 
 <div align="center">
