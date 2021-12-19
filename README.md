@@ -8,7 +8,7 @@
   
   ### 🧸 Blog 🧸
   
-  ### 👉🏻 About me & contact 👈🏻 👉🏻
+  ### 👉🏻 About me & contact 👈🏻 👉🏻🧏‍♀️👈👉💁🏻‍♀️🧏🏻‍♀️🙋🏻‍♀️
 </div>
 
 <!--
