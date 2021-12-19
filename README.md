@@ -5,7 +5,7 @@
 
   ### Tech Stack
   
-  ### Blog
+  ### Blog🤗
   
   ### About me & contact
 </div>
