@@ -1,5 +1,11 @@
+<div align="center">
 # Hanbi
 ### Interested in wep/app development👩🏻‍💻🔥 
+
+#### Tech Stack
+#### Blog
+#### About me & contact
+</div>
 
 <!--
 **rlagksql219/rlagksql219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
