@@ -2,11 +2,15 @@
 
   # Hanbi
   
-  ### Interested in wep/app development 📱💻
+  
+  ### Interested in app/wep development 📱💻
 
+  
   ### ⚒️ Tech Stack ⚒️
   
+  
   ### 🧸 Blog 🧸
+  
   
   ### 🙋‍♀️ About me & contact 🙋‍♀️
 </div>
