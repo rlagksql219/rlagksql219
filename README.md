@@ -1,13 +1,13 @@
 <div align="center">
 
   # Hanbi
-  ## Interested in wep/app development 👩🏻‍💻🔥
+  ## Interested in wep/app development 👩‍💻👩🏻‍💻👩🏼‍💻👩🏽‍💻👩🏾‍💻👩🏿‍💻💻
 
   ### ⚒️ Tech Stack ⚒️
   
   ### 🧸 Blog 🧸
   
-  ### 👉 About me & contact 👈
+  ### 👉🏻 About me & contact 👈🏻
 </div>
 
 <!--
