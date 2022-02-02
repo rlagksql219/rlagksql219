@@ -29,12 +29,8 @@
 <div align="center" style="text-align:center">
 
 <!-- Velog에서 특정 태그를 가진 최신글 가져오기 -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=tesseract)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D-qcsivues)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=tech)](https://velog.io/@rlagksql219/%EB%A7%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=reactnative)](https://velog.io/@inryu/React-Native-%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C-%EB%AC%B8%EC%84%9C-%EC%8A%A4%EC%BA%94%ED%95%98%EA%B8%B0)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=openapi)](https://velog.io/@inryu/React-Native-API-fetch-Opne-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-async-await)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rlagksql219&tag=tesseract)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D-qcsivues)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rlagksql219&tag=tech)](https://velog.io/@rlagksql219/%EB%A7%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80)
 
 </div>
 
