@@ -5,17 +5,19 @@
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 <br>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
+<br>
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp
 <br>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
@@ -27,8 +29,12 @@
 <div align="center" style="text-align:center">
 
 <!-- Velog에서 특정 태그를 가진 최신글 가져오기 -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=tesseract)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=tech)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D-qcsivues)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=tesseract)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D-qcsivues)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanbi&tag=tech)](https://velog.io/@rlagksql219/%EB%A7%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80)
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=reactnative)](https://velog.io/@inryu/React-Native-%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C-%EB%AC%B8%EC%84%9C-%EC%8A%A4%EC%BA%94%ED%95%98%EA%B8%B0)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=openapi)](https://velog.io/@inryu/React-Native-API-fetch-Opne-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-async-await)
+
 
 </div>
 
