@@ -30,7 +30,7 @@
 
 <!-- Velog에서 특정 태그를 가진 최신글 가져오기 -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rlagksql219&tag=tesseract)](https://velog.io/@rlagksql219/python-Tesseract-OCR-%EA%B8%80%EC%9E%90-%EC%9D%B8%EC%8B%9D-qcsivues)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rlagksql219&tag=Finance)](https://velog.io/@rlagksql219/%EB%A7%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rlagksql219&tag=tech)](https://velog.io/@rlagksql219/%EB%A7%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%9E%80)
 
 </div>
 
