@@ -11,16 +11,16 @@
 <br> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=Bootstrap&logoColor=white"/>&nbsp
 <br>
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
 <br>
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
 </p>
 
 <br>
