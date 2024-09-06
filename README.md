@@ -3,7 +3,7 @@
 - 🔗 https://boiling-unicorn-284.notion.site/Hanbi-Kim-db0d510c53be468cab800ef2a1703d95 (Portfolio)
 - 📗 https://velog.io/@rlagksql219/posts (Blog)
 
-<!-- Velog에서 특정 태그를 가진 최신글 가져오기 -->
+<!-- Velog에서 최신글 가져오기 -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=rlagksql219)](https://velog.io/@rlagksql219) 
 
 
@@ -11,7 +11,7 @@
 
 ### Android:
 - **Languages**: ![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=mysql&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-- **Frameworks & Libraries**: ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-03DAC5?logo=android&logoColor=white)
+- **Frameworks & Libraries**: ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?logo=android&logoColor=white)
 - **Tools**: ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 
 ### Back-end:
